@@ -6,7 +6,7 @@ class Hacs(hass.Hass):
     """Hacs class."""
 
     def initialize(self):
-        """Initialize the Hacs app."""
+        """Initialize the HACS app."""
         self.log("Sample AppDaemon app for HACS.")
         self.log("Pending updates in HACS: {}".format(self.get_pending_updates()))
 
