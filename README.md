@@ -1,6 +1,6 @@
 # ad-hacs
 
-_Sample AppDaemon app for HACS._
+_Sample AppDaemon app for [HACS](https://github.com/custom-components/hacs)._
 
 ## Installation
 
